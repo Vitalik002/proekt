@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Home/Desktop/gallows_game-main/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2019\\PROFES~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -IC:/SFML-2.5.1/include -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++14 -o CMakeFiles\\ClionProjects.dir\\main.cpp.obj -c C:\\Users\\Home\\Desktop\\gallows_game-main\\main.cpp",
+  "file": "C:/Users/Home/Desktop/gallows_game-main/main.cpp"
+},
+{
+  "directory": "C:/Users/Home/Desktop/gallows_game-main/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2019\\PROFES~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -IC:/SFML-2.5.1/include -g -Xclang -gcodeview -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++14 -o CMakeFiles\\test.dir\\test.cpp.obj -c C:\\Users\\Home\\Desktop\\gallows_game-main\\test.cpp",
+  "file": "C:/Users/Home/Desktop/gallows_game-main/test.cpp"
+}
+]

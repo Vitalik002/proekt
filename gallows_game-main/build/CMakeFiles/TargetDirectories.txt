@@ -1,0 +1,4 @@
+C:/Users/Home/Desktop/gallows_game-main/build/CMakeFiles/ClionProjects.dir
+C:/Users/Home/Desktop/gallows_game-main/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Home/Desktop/gallows_game-main/build/CMakeFiles/test.dir
+C:/Users/Home/Desktop/gallows_game-main/build/CMakeFiles/edit_cache.dir

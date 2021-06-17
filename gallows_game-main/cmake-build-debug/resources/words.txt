@@ -1,0 +1,10 @@
+apple
+avocado
+apricot
+banana
+date
+fig
+grapefruit
+grapes
+kiwi
+lime
